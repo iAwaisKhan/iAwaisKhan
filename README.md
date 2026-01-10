@@ -30,11 +30,6 @@
 
 ---
 
-<div align="center">
-  
-![](https://komarev.com/ghpvc/?username=iAwaisK&color=blue&style=flat)
-
-</div>
 
 
 
