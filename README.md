@@ -1,4 +1,4 @@
-<img width="2019" height="661" alt="Screenshot 2025-10-05 025038" src="https://github.com/user-attachments/assets/94325ee3-07e2-404f-9c1c-3b8db13432ca" /><br/><br/>
+<img width="2022" height="654" alt="iAwaisKhan Banner" src="https://github.com/user-attachments/assets/9ea3158b-22e4-4bd0-8a04-b3b9a377b142" /><br/><br/>
 
 --- 
 
