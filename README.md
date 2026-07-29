@@ -15,8 +15,8 @@ I love building backend systems, learning new technologies, and contributing to 
 ---
 
 <p align="center">
-<a href="https://twitter.com/khanawais_in">Twitter</a> •
-<a href="https://linkedin.com/in/khanawais">LinkedIn</a> •
+<a href="https://twitter.com/awaisxdevs">Twitter</a> •
+<a href="https://linkedin.com/in/awaisxdevs">LinkedIn</a> •
 <a href="https://github.com/iAwaisKhan">GitHub</a>
 </p>
 
